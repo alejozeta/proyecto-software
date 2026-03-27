@@ -166,7 +166,6 @@ proyecto-software/
 ├── Dockerfile                    # Imagen Docker de la API
 ├── docker-compose.yml            # Orquestación de todos los servicios
 ├── requirements.txt              # Dependencias de Python
-├── CLAUDE.md                     # Contexto del proyecto para Claude Code
 └── README.md                     # Este archivo
 ```
 
